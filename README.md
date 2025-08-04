@@ -9,7 +9,13 @@ Tener instalado **Node.js**
 
 ## Para ejecutar el proyecto 
 
-Ejecutamos el comando segun el gestor de paquetes que usemos:
+- Instala las dependencias de Node.JS estando en la ruta principal del proyecto:
+
+```bash
+npm install
+```
+
+- Ejecuta el comando segun el gestor de paquetes que uses:
 
 ```bash
 npm run dev
@@ -21,7 +27,7 @@ pnpm dev
 bun dev
 ```
 
-Abre [http://localhost:3000](http://localhost:3000) con el navegador para que veas la plantilla.
+- Abre [http://localhost:3000](http://localhost:3000) con el navegador para que veas la plantilla.
 
 ---
 
@@ -31,7 +37,7 @@ Este proyecto usa [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 Para aprender más acerca Next.js, hecha un vistazo a las siguientes fuentes:
 
-- [Next.js Documentación](https://nextjs.org/docs) - aprende dobre las caractesriticas y API de Next.js.
+- [Next.js Documentación](https://nextjs.org/docs) - aprende sobre las caractesriticas y API de Next.js.
 - [Aprende Next.js](https://nextjs.org/learn) - un tutorial interactivo de Next.js.
 
 ## Despliegue en Vercel
