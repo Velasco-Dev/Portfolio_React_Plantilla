@@ -1,6 +1,6 @@
 ## Video demostración de la platilla
 
-Este video muestra el diseño de la [![platilla](https://img.youtube.com/vi/QjLFiL9N01g&ab_channel=TagpaClips/0.jpg)](https://www.youtube.com/watch?v=QjLFiL9N01g&ab_channel=TagpaClips)
+Este video muestra el diseño de la [![platilla](https://img.youtube.com/vi/QjLFiL9N01g/0.jpg)](https://www.youtube.com/watch?v=QjLFiL9N01g)
 
 ---
 
