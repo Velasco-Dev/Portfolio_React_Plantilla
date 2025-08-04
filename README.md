@@ -1,6 +1,6 @@
 ## Video demostración de la platilla
 
-Este video muestra el diseño de la [plantilla](https://youtu.be/QjLFiL9N01g)
+Este video muestra el diseño de la [![plantilla](https://youtu.be/QjLFiL9N01g)](https://youtu.be/QjLFiL9N01g)
 
 ---
 
