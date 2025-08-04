@@ -1,3 +1,9 @@
+## Video demostración de la platilla
+
+Este video muestra el diseño de la [plantilla](https://youtu.be/QjLFiL9N01g)
+
+---
+
 Este es un proyecto de [Next.js](https://nextjs.org) potenciado con [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## ✅ Requisitos previos
@@ -28,6 +34,13 @@ bun dev
 ```
 
 - Abre [http://localhost:3000](http://localhost:3000) con el navegador para que veas la plantilla.
+
+---
+
+# Edición de la plantilla
+
+- Revisa la ruta **src/app/components** para que modifiques los componentes que desees y de esa forma personalices con tu estilo la plantilla.
+- Revisa los estilos **src/app/styles/style.css** para que personalices los estilos, colores y animaciones a tu gusto.
 
 ---
 
